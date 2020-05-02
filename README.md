@@ -1,7 +1,5 @@
 # Todoey ✓
 
-## Goal
-
 Understood how to manage state in Flutter. Learnt about various Flutter architecture choices and how to use the officially recommended Provider package to manage my app state.
 
 
